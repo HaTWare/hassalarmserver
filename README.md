@@ -1,4 +1,4 @@
-# AlarmServer Home Assistant add-on repository
+# Home Assistant add-on repository: AlarmServer
 
 Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
 

@@ -1,4 +1,4 @@
 configuration:
   message:
     name: Message
-    description: Starting AlarmSever.
+    description: Starting AlarmSever...

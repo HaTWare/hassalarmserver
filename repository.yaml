@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: AlarmServer Home Assistant add-on repository
+name: Home Assistant add-on repository: AlarmServer
 url: 'https://github.com/HaTWare/hassalarmserver'
 maintainer: AlarmServer <hat007@email.cz>
