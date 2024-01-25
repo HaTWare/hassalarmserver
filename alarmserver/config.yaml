@@ -1,7 +1,7 @@
 name: "AlarmServer"
 description: "Alarm server for Hassio!"
 version: "1.0.0"
-slug: "AlarmServer"
+slug: "alarmserver"
 advanced: true
 arch:
   - aarch64
